@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "7日目の決意",
+  "base_artist": "UVERworld",
+  "createdAt": "2026-03-24T09:54:24.102836Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "7日目の決意(Live at Kyocera Dome Osaka)",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/01_7日目の決意(Live_at_Kyocera_Dome_Osaka)_UVERworld.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "7日目の決意",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/02_7日目の決意_UVERworld.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "7日目の決意 (instrumental)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/03_7日目の決意_(instrumental)_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "7日目の決意 (KING'S PARADE 2017 Saitama Super Arena)",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/04_7日目の決意_(KING'S_PARADE_2017_Saitama_Super_Arena)_UVERworld.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "7日目の決意 (KING'S PARADE at Yokohama Arena)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/05_7日目の決意_(KING'S_PARADE_at_Yokohama_Arena)_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "7日目の決意",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/06_7日目の決意_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "7日目の決意(KING'S PARADE at Yokohama Arena 2018.12.21)",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/07_7日目の決意(KING'S_PARADE_at_Yokohama_Arena_2018.12.21)_UVERworld.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "7日目の決意（KING'S PARADE at Yokohama Arena）",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/08_7日目の決意(KING'S_PARADE_at_Yokohama_Arena)_UVERworld.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "7日目の決意",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_7日目の決意_UVERworld.txt"
+    }
+  ]
+}
